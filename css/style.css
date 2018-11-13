@@ -43,9 +43,11 @@ section {
 /* These divs are green */
 .element {
   background-color: green;
+  padding-bottom: 15px;
 }
 
 /* These divs are blue */
 .feature {
-  background-color: blue;
+  background-color: lightblue;
+  padding-bottom: 15px;
 }
